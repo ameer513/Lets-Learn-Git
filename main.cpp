@@ -7,6 +7,10 @@ void quicksort()
 {
     // 
 }
+void margesort()
+{
+    // 
+}
 int main()
 {
     std::cout<<"Hello world";
