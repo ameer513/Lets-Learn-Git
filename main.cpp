@@ -11,6 +11,10 @@ void margesort()
 {
     // 
 }
+void insertionsort()
+{
+    // 
+}
 int main()
 {
     std::cout<<"Hello world";
